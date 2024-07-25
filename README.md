@@ -4,5 +4,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/adolfo-escobar-1025692a3)
 
-[Sitio Web](https://adolfoescobar.github.io/)
 
