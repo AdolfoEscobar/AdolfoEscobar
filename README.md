@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=AdolfoEscobar)
 
 ## Sobre mí
-Apasionado por crear y perdiendo la cabeza en el intento
+Apasionado por crear productos virales y encontrar esa llave
 
 ## Contacto
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adolfoescobarpe@gmail.com)
