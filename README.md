@@ -1,10 +1,10 @@
 ### ¡Hola! 👋 Soy Adolfo Escobar
 
+🌐 [Mi Página Personal](https://adolfoescobar.github.io)  
 ![](https://komarev.com/ghpvc/?username=AdolfoEscobar)
 
 ## Sobre mí
 Apasionado por crear productos virales y encontrar esa llave
-🌐 [Mi Página Personal](https://adolfoescobar.github.io)  
 
 ## Contacto
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adolfoescobarpe@gmail.com)
@@ -46,3 +46,4 @@ Apasionado por crear productos virales y encontrar esa llave
 ### Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
