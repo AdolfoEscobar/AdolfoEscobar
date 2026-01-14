@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=AdolfoEscobar)
 
 ## Sobre mí
-Apasionado por Go, Rust, Next, Linux y el desarrollo de software.
+Apasionado por crear productos que puedan posicionarse y perdiendo la cabeza en el intento
 
 ## Contacto
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adolfoescobarpe@gmail.com)
