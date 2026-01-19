@@ -5,8 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=AdolfoEscobar)
 
 ## Sobre mí
-Apasionado por crear productos y encontrar esa llave
-
+Apasionado por crear
 ## Contacto
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adolfoescobarpe@gmail.com)
 
